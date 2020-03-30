@@ -1,0 +1,497 @@
+[SOIL]
+Undetermined
+SoilColor=9764853
+SoilSoilType=2
+SoilUseSoilType=0
+SoilExcessPorePressure=0.00
+SoilPorePressureFactor=1.00
+SoilGamDry=0.01
+SoilGamWet=0.01
+SoilRestSlope=0
+SoilCohesion=0.00
+SoilPhi=0.00
+SoilDilatancy=0.00
+SoilCuTop=0.00
+SoilCuBottom=0.00
+SoilCuGradient=0.00
+SoilStressTableName=
+SoilBondStressTableName=
+SoilMatStrengthType=0
+SoilProbInputValues=0
+SoilRatioCuPc=0.22
+SoilPOP=10.00
+SoilRheologicalCoefficient=0.00
+SoilUseProbDefaults=1
+SoilStdCohesion=0.00
+SoilStdPhi=0.00
+SoilStdRatioCuPc=0.00
+SoilStdRatioCuPcPassive=0.00
+SoilStdRatioCuPcActive=0.00
+SoilStdCu=0.00
+SoilStdCuTop=0.00
+SoilStdCuGradient=0.00
+SoilStdPn=0.20
+SoilDistCohesion=3
+SoilDistPhi=3
+SoilDistStressTable=3
+SoilDistRatioCuPc=3
+SoilDistRatioCuPcPassive=3
+SoilDistRatioCuPcActive=3
+SoilDistCu=3
+SoilDistCuTop=3
+SoilDistCuGradient=3
+SoilDistPn=3
+SoilCorrelationCPhi=0.00
+SoilRatioCuPcPassive=0.00
+SoilRatioCuPcActive=0.00
+SoilCuPassiveTop=0.00
+SoilCuPassiveBottom=0.00
+SoilCuActiveTop=0.00
+SoilCuActiveBottom=0.00
+SoilUniformRatioCuPc=1
+SoilUniformCu=1
+SoilDesignPartialCohesion=1.25
+SoilDesignStdCohesion=-1.65
+SoilDesignPartialPhi=1.10
+SoilDesignStdPhi=-1.65
+SoilDesignPartialStressTable=1.15
+SoilDesignStdStressTable=-1.65
+SoilDesignPartialRatioCuPc=1.15
+SoilDesignStdRatioCuPc=-1.65
+SoilDesignPartialCu=1.15
+SoilDesignStdCu=-1.65
+SoilDesignPartialPOP=1.10
+SoilDesignStdPOP=-1.65
+SoilDesignPartialRRatio=1.00
+SoilDesignStdRRatio=0.00
+SoilSoilGroup=0
+SoilStdPOP=0.00
+SoilDistPOP=2
+SoilHorFluctScaleCoh=50.00
+SoilVertFluctScaleCoh=0.25
+SoilNumberOfTestsCoh=1
+SoilVarianceRatioCoh=0.75
+SoilHorFluctScalePhi=50.00
+SoilVertFluctScalePhi=0.25
+SoilNumberOfTestsPhi=1
+SoilVarianceRatioPhi=0.75
+SoilRRatio=1.0000000
+SoilDistCu=3
+SoilDistCuTop=3
+SoilDistCuGradient=3
+[END OF SOIL]
+[SOIL]
+tv
+SoilColor=536870911
+SoilSoilType=4
+SoilUseSoilType=0
+SoilExcessPorePressure=0.00
+SoilPorePressureFactor=1.00
+SoilGamDry=11.60
+SoilGamWet=11.60
+SoilRestSlope=0
+SoilCohesion=1.70
+SoilPhi=24.10
+SoilDilatancy=0.00
+SoilCuTop=0.00
+SoilCuBottom=0.00
+SoilCuGradient=0.00
+SoilStressTableName=AM Antropogeen veen
+SoilBondStressTableName=
+SoilMatStrengthType=0
+SoilProbInputValues=0
+SoilRatioCuPc=0.00
+SoilPOP=0.00
+SoilRheologicalCoefficient=0.00
+SoilUseProbDefaults=1
+SoilStdCohesion=0.00
+SoilStdPhi=0.00
+SoilStdRatioCuPc=0.00
+SoilStdRatioCuPcPassive=0.00
+SoilStdRatioCuPcActive=0.00
+SoilStdCu=0.00
+SoilStdCuTop=0.00
+SoilStdCuGradient=0.00
+SoilStdPn=0.00
+SoilDistCohesion=3
+SoilDistPhi=3
+SoilDistStressTable=3
+SoilDistRatioCuPc=3
+SoilDistRatioCuPcPassive=3
+SoilDistRatioCuPcActive=3
+SoilDistCu=3
+SoilDistCuTop=3
+SoilDistCuGradient=3
+SoilDistPn=3
+SoilCorrelationCPhi=0.00
+SoilRatioCuPcPassive=0.00
+SoilRatioCuPcActive=0.00
+SoilCuPassiveTop=0.00
+SoilCuPassiveBottom=0.00
+SoilCuActiveTop=0.00
+SoilCuActiveBottom=0.00
+SoilUniformRatioCuPc=1
+SoilUniformCu=1
+SoilDesignPartialCohesion=1.25
+SoilDesignStdCohesion=-1.65
+SoilDesignPartialPhi=1.10
+SoilDesignStdPhi=-1.65
+SoilDesignPartialStressTable=1.15
+SoilDesignStdStressTable=-1.65
+SoilDesignPartialRatioCuPc=1.15
+SoilDesignStdRatioCuPc=-1.65
+SoilDesignPartialCu=1.15
+SoilDesignStdCu=-1.65
+SoilDesignPartialPOP=1.10
+SoilDesignStdPOP=-1.65
+SoilDesignPartialRRatio=1.00
+SoilDesignStdRRatio=0.00
+SoilSoilGroup=0
+SoilStdPOP=0.00
+SoilDistPOP=2
+SoilHorFluctScaleCoh=0.00
+SoilVertFluctScaleCoh=0.00
+SoilNumberOfTestsCoh=0
+SoilVarianceRatioCoh=0.00
+SoilHorFluctScalePhi=0.00
+SoilVertFluctScalePhi=0.00
+SoilNumberOfTestsPhi=0
+SoilVarianceRatioPhi=0.00
+SoilRRatio=0.0000000
+SoilDistCu=3
+SoilDistCuTop=3
+SoilDistCuGradient=3
+[END OF SOIL]
+[SOIL]
+droog_tv
+SoilColor=536870911
+SoilSoilType=4
+SoilUseSoilType=0
+SoilExcessPorePressure=0.00
+SoilPorePressureFactor=1.00
+SoilGamDry=5.50
+SoilGamWet=11.58
+SoilRestSlope=0
+SoilCohesion=1.70
+SoilPhi=24.10
+SoilDilatancy=0.00
+SoilCuTop=0.00
+SoilCuBottom=0.00
+SoilCuGradient=0.00
+SoilStressTableName=AM Antropogeen veen
+SoilBondStressTableName=
+SoilMatStrengthType=0
+SoilProbInputValues=0
+SoilRatioCuPc=0.00
+SoilPOP=0.00
+SoilRheologicalCoefficient=0.00
+SoilUseProbDefaults=1
+SoilStdCohesion=0.00
+SoilStdPhi=0.00
+SoilStdRatioCuPc=0.00
+SoilStdRatioCuPcPassive=0.00
+SoilStdRatioCuPcActive=0.00
+SoilStdCu=0.00
+SoilStdCuTop=0.00
+SoilStdCuGradient=0.00
+SoilStdPn=0.00
+SoilDistCohesion=3
+SoilDistPhi=3
+SoilDistStressTable=3
+SoilDistRatioCuPc=3
+SoilDistRatioCuPcPassive=3
+SoilDistRatioCuPcActive=3
+SoilDistCu=3
+SoilDistCuTop=3
+SoilDistCuGradient=3
+SoilDistPn=3
+SoilCorrelationCPhi=0.00
+SoilRatioCuPcPassive=0.00
+SoilRatioCuPcActive=0.00
+SoilCuPassiveTop=0.00
+SoilCuPassiveBottom=0.00
+SoilCuActiveTop=0.00
+SoilCuActiveBottom=0.00
+SoilUniformRatioCuPc=1
+SoilUniformCu=1
+SoilDesignPartialCohesion=1.25
+SoilDesignStdCohesion=-1.65
+SoilDesignPartialPhi=1.10
+SoilDesignStdPhi=-1.65
+SoilDesignPartialStressTable=1.15
+SoilDesignStdStressTable=-1.65
+SoilDesignPartialRatioCuPc=1.15
+SoilDesignStdRatioCuPc=-1.65
+SoilDesignPartialCu=1.15
+SoilDesignStdCu=-1.65
+SoilDesignPartialPOP=1.10
+SoilDesignStdPOP=-1.65
+SoilDesignPartialRRatio=1.00
+SoilDesignStdRRatio=0.00
+SoilSoilGroup=0
+SoilStdPOP=0.00
+SoilDistPOP=2
+SoilHorFluctScaleCoh=0.00
+SoilVertFluctScaleCoh=0.00
+SoilNumberOfTestsCoh=0
+SoilVarianceRatioCoh=0.00
+SoilHorFluctScalePhi=0.00
+SoilVertFluctScalePhi=0.00
+SoilNumberOfTestsPhi=0
+SoilVarianceRatioPhi=0.00
+SoilRRatio=0.0000000
+SoilDistCu=3
+SoilDistCuTop=3
+SoilDistCuGradient=3
+[END OF SOIL]
+[SOIL]
+tz
+SoilColor=536870911
+SoilSoilType=1
+SoilUseSoilType=0
+SoilExcessPorePressure=0.00
+SoilPorePressureFactor=1.00
+SoilGamDry=17.00
+SoilGamWet=18.20
+SoilRestSlope=0
+SoilCohesion=0.40
+SoilPhi=23.20
+SoilDilatancy=0.00
+SoilCuTop=0.00
+SoilCuBottom=0.00
+SoilCuGradient=0.00
+SoilStressTableName=AM Antropogeen zand
+SoilBondStressTableName=
+SoilMatStrengthType=0
+SoilProbInputValues=0
+SoilRatioCuPc=0.00
+SoilPOP=0.00
+SoilRheologicalCoefficient=0.00
+SoilUseProbDefaults=1
+SoilStdCohesion=0.00
+SoilStdPhi=0.00
+SoilStdRatioCuPc=0.00
+SoilStdRatioCuPcPassive=0.00
+SoilStdRatioCuPcActive=0.00
+SoilStdCu=0.00
+SoilStdCuTop=0.00
+SoilStdCuGradient=0.00
+SoilStdPn=0.00
+SoilDistCohesion=3
+SoilDistPhi=3
+SoilDistStressTable=3
+SoilDistRatioCuPc=3
+SoilDistRatioCuPcPassive=3
+SoilDistRatioCuPcActive=3
+SoilDistCu=3
+SoilDistCuTop=3
+SoilDistCuGradient=3
+SoilDistPn=3
+SoilCorrelationCPhi=0.00
+SoilRatioCuPcPassive=0.00
+SoilRatioCuPcActive=0.00
+SoilCuPassiveTop=0.00
+SoilCuPassiveBottom=0.00
+SoilCuActiveTop=0.00
+SoilCuActiveBottom=0.00
+SoilUniformRatioCuPc=1
+SoilUniformCu=1
+SoilDesignPartialCohesion=1.25
+SoilDesignStdCohesion=-1.65
+SoilDesignPartialPhi=1.10
+SoilDesignStdPhi=-1.65
+SoilDesignPartialStressTable=1.15
+SoilDesignStdStressTable=-1.65
+SoilDesignPartialRatioCuPc=1.15
+SoilDesignStdRatioCuPc=-1.65
+SoilDesignPartialCu=1.15
+SoilDesignStdCu=-1.65
+SoilDesignPartialPOP=1.10
+SoilDesignStdPOP=-1.65
+SoilDesignPartialRRatio=1.00
+SoilDesignStdRRatio=0.00
+SoilSoilGroup=0
+SoilStdPOP=0.00
+SoilDistPOP=2
+SoilHorFluctScaleCoh=0.00
+SoilVertFluctScaleCoh=0.00
+SoilNumberOfTestsCoh=0
+SoilVarianceRatioCoh=0.00
+SoilHorFluctScalePhi=0.00
+SoilVertFluctScalePhi=0.00
+SoilNumberOfTestsPhi=0
+SoilVarianceRatioPhi=0.00
+SoilRRatio=0.0000000
+SoilDistCu=3
+SoilDistCuTop=3
+SoilDistCuGradient=3
+[END OF SOIL]
+[SOIL]
+droog_tz
+SoilColor=536870911
+SoilSoilType=1
+SoilUseSoilType=0
+SoilExcessPorePressure=0.00
+SoilPorePressureFactor=1.00
+SoilGamDry=16.00
+SoilGamWet=18.20
+SoilRestSlope=0
+SoilCohesion=0.40
+SoilPhi=23.20
+SoilDilatancy=0.00
+SoilCuTop=0.00
+SoilCuBottom=0.00
+SoilCuGradient=0.00
+SoilStressTableName=AM Antropogeen zand
+SoilBondStressTableName=
+SoilMatStrengthType=0
+SoilProbInputValues=0
+SoilRatioCuPc=0.00
+SoilPOP=0.00
+SoilRheologicalCoefficient=0.00
+SoilUseProbDefaults=1
+SoilStdCohesion=0.00
+SoilStdPhi=0.00
+SoilStdRatioCuPc=0.00
+SoilStdRatioCuPcPassive=0.00
+SoilStdRatioCuPcActive=0.00
+SoilStdCu=0.00
+SoilStdCuTop=0.00
+SoilStdCuGradient=0.00
+SoilStdPn=0.00
+SoilDistCohesion=3
+SoilDistPhi=3
+SoilDistStressTable=3
+SoilDistRatioCuPc=3
+SoilDistRatioCuPcPassive=3
+SoilDistRatioCuPcActive=3
+SoilDistCu=3
+SoilDistCuTop=3
+SoilDistCuGradient=3
+SoilDistPn=3
+SoilCorrelationCPhi=0.00
+SoilRatioCuPcPassive=0.00
+SoilRatioCuPcActive=0.00
+SoilCuPassiveTop=0.00
+SoilCuPassiveBottom=0.00
+SoilCuActiveTop=0.00
+SoilCuActiveBottom=0.00
+SoilUniformRatioCuPc=1
+SoilUniformCu=1
+SoilDesignPartialCohesion=1.25
+SoilDesignStdCohesion=-1.65
+SoilDesignPartialPhi=1.10
+SoilDesignStdPhi=-1.65
+SoilDesignPartialStressTable=1.15
+SoilDesignStdStressTable=-1.65
+SoilDesignPartialRatioCuPc=1.15
+SoilDesignStdRatioCuPc=-1.65
+SoilDesignPartialCu=1.15
+SoilDesignStdCu=-1.65
+SoilDesignPartialPOP=1.10
+SoilDesignStdPOP=-1.65
+SoilDesignPartialRRatio=1.00
+SoilDesignStdRRatio=0.00
+SoilSoilGroup=0
+SoilStdPOP=0.00
+SoilDistPOP=2
+SoilHorFluctScaleCoh=0.00
+SoilVertFluctScaleCoh=0.00
+SoilNumberOfTestsCoh=0
+SoilVarianceRatioCoh=0.00
+SoilHorFluctScalePhi=0.00
+SoilVertFluctScalePhi=0.00
+SoilNumberOfTestsPhi=0
+SoilVarianceRatioPhi=0.00
+SoilRRatio=0.0000000
+SoilDistCu=3
+SoilDistCuTop=3
+SoilDistCuGradient=3
+[END OF SOIL]
+
+[POINTS]
+     84  - Number of geometry points -
+       1     119126.800        -20.000          0.000
+       2     119194.911        -20.000          0.000
+       3     119126.800         -4.900          0.000
+       4     119194.911         -4.900          0.000
+       5     119126.800         -5.400          0.000
+       6     119194.911         -5.400          0.000
+       7     119126.800        -10.000          0.000
+       8     119194.911        -10.000          0.000
+       9     119126.800        -11.000          0.000
+      10     119194.911        -11.000          0.000
+      11     119126.800         -2.460          0.000
+      12     119138.908         -2.460          0.000
+      13     119139.098         -2.270          0.000
+      14     119139.912         -2.040          0.000
+      15     119140.915         -1.860          0.000
+      16     119141.910         -1.730          0.000
+      17     119142.914         -1.620          0.000
+      18     119143.908         -1.540          0.000
+      19     119144.912         -1.480          0.000
+      20     119145.916         -1.450          0.000
+      21     119146.910         -1.400          0.000
+      22     119147.914         -1.420          0.000
+      23     119148.245         -1.420          0.000
+      24     119148.908         -1.440          0.000
+      25     119149.912         -1.450          0.000
+      26     119150.413         -1.455          0.000
+      27     119150.916         -1.460          0.000
+      28     119151.910         -1.540          0.000
+      29     119152.913         -1.580          0.000
+      30     119153.907         -1.570          0.000
+      31     119154.911         -1.710          0.000
+      32     119155.915         -1.800          0.000
+      33     119156.910         -1.920          0.000
+      34     119157.914         -2.000          0.000
+      35     119158.908         -2.150          0.000
+      36     119159.912         -2.220          0.000
+      37     119160.916         -2.220          0.000
+      38     119160.995         -2.220          0.000
+      39     119161.910         -2.440          0.000
+      40     119162.914         -2.520          0.000
+      41     119163.024         -2.520          0.000
+      42     119163.908         -2.630          0.000
+      43     119164.911         -2.620          0.000
+      44     119165.915         -2.650          0.000
+      45     119166.909         -2.710          0.000
+      46     119167.913         -2.770          0.000
+      47     119168.907         -2.840          0.000
+      48     119169.911         -2.940          0.000
+      49     119170.915         -3.020          0.000
+      50     119171.909         -3.040          0.000
+      51     119172.914         -3.110          0.000
+      52     119173.908         -3.170          0.000
+      53     119174.912         -3.200          0.000
+      54     119175.915         -3.210          0.000
+      55     119176.909         -3.250          0.000
+      56     119177.190         -3.250          0.000
+      57     119177.913         -3.240          0.000
+      58     119178.907         -3.320          0.000
+      59     119179.911         -3.340          0.000
+      60     119180.414         -3.330          0.000
+      61     119180.915         -3.340          0.000
+      62     119181.096         -3.340          0.000
+      63     119181.909         -3.360          0.000
+      64     119182.913         -3.370          0.000
+      65     119183.907         -3.400          0.000
+      66     119184.911         -3.420          0.000
+      67     119185.915         -3.430          0.000
+      68     119186.909         -3.440          0.000
+      69     119187.913         -3.460          0.000
+      70     119188.907         -3.480          0.000
+      71     119189.911         -3.480          0.000
+      72     119190.915         -3.480          0.000
+      73     119191.909         -3.500          0.000
+      74     119192.913         -3.500          0.000
+      75     119193.907         -3.470          0.000
+      76     119194.911         -3.490          0.000
+      77     119126.800         -1.850          0.000
+      78     119138.908         -1.850          0.000
+      79     119145.916         -2.250          0.000
+      80     119153.907         -2.450          0.000
+      81     119173.908         -3.370          0.000
+      82     119194.911         -5.170          0.000
+      83     119126.800         -3.800          0.000
+      84     119194.911         -3.800          0.000
